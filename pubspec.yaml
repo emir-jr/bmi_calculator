@@ -1,0 +1,16 @@
+name: bmi_calculator
+description: Aplicativo Flutter para cálculo de IMC
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/male.png
+    - assets/female.png
